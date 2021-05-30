@@ -8,6 +8,7 @@
     <div class="card-body">
        
         <livewire:admin.user.edit />
+        <livewire:admin.user.delete />
         <x-table.manager :columns="$columns" :data="$data" :actions="$actions" />
 
         <div class="row">

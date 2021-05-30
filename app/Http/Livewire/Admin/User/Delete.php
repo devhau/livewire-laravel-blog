@@ -2,9 +2,10 @@
 
 namespace App\Http\Livewire\Admin\User;
 
-use Livewire\Component;
+use App\Http\Livewire\Modal;
+use App\Models\User;
 
-class Delete extends Component
+class Delete extends Modal
 {
     public $_id;
     public $name;
