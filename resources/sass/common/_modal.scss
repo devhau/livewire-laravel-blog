@@ -1,0 +1,16 @@
+.modal-livewire-admin{
+    display: block !important;
+    .modal-header{
+        padding: 0.4rem 0.6rem;
+    }
+    .modal-body {
+        padding: 0.6rem;
+    }
+    .modal-footer{
+        padding: 0.4rem  0.6rem;
+    }
+    form{
+        margin: 0;
+        padding: 0;
+    }
+}

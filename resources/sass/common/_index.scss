@@ -1,0 +1,13 @@
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+
+// Font-awesome
+@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "@fortawesome/fontawesome-free/scss/solid.scss";
+@import "@fortawesome/fontawesome-free/scss/brands.scss";
+
+//fastco/slick
+@import '~@fastco/slick/src/slick';
+@import '~@fastco/slick/src/slick-theme';
+
+@import 'modal';
