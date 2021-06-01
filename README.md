@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/https://github.com/devhau/livewire-admin.svg)](https://github.com/https://github.com/devhau/livewire-admin/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/https://github.com/devhau/livewire-admin.svg)](https://github.com/https://github.com/devhau/livewire-admin/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/devhau/livewire-admin.svg)](https://github.com/devhau/livewire-admin/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/devhau/livewire-admin.svg)](https://github.com/devhau/livewire-admin/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -132,6 +132,7 @@ Add additional notes about how to deploy this on a live system.
 
 - [Laravel 8](https://www.laravel.com/) - Server Environment
 - [Livewire 2](https://laravel-livewire.com) - Fullstack
+- [alpinejs 2.8.*](https://github.com/alpinejs/alpine) - JavaScript framework 
 - [Bootstrap 5](https://getbootstrap.com/) - Web Framework
 - [@adminkit/core](https://github.com/adminkit/adminkit) - Template for admin
 
